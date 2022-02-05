@@ -32,14 +32,127 @@ The class size is 30 students from varying backgrounds, and the class takes plac
 {{< anchor "Arduino_Schedule" >}}{{< /anchor >}}Schedule
 --------------------------------------------------------
 
-| SES # | TOPICS / CLASS ACTIVITIES |
-| --- | --- |
-| 1 | Survey of GitHub, Arduino, and the basics of software collaboration: {{< br >}}{{< br >}} *   An overview of GitHub collaboration{{< br >}}*   Creating and contributing to repositories{{< br >}}*   An overview of Arduino microcontrollers{{< br >}}*   Recreating a guided project (roll-a-ball) {{< br >}}{{< br >}}  |
-| 2 | The basics of design and ideation: {{< br >}}{{< br >}} *   Using the motors{{< br >}}*   Expand, explore, and personalize the roll-a-ball example{{< br >}}*   Overview of collaborative design process{{< br >}}*   Short project: Form team for short project{{< br >}}*   Start short project {{< br >}}{{< br >}}  |
-| 3 | Project design and execution for short projects: {{< br >}}{{< br >}} *   Crash course in prototyping and documenting ideas{{< br >}}*   Short project {{< br >}}{{< br >}}  |
-| 4 | Ideation, pitches, team formation, and project selection for short projects: {{< br >}}{{< br >}} *   Reflections from yesterday{{< br >}}*   Overview of plan, team structure and expected outcomes{{< br >}}*   Project ideation{{< br >}}*   Team formation{{< br >}}*   Get started or refine idea {{< br >}}{{< br >}}  |
-| 5 | Presentation of short projects |
-| 6 | Project time for long projects: Meet and create with guidance |
-| 7 | Project time for long projects: Meet and create with guidance |
-| 8 | Project time for long projects: Meet and create with guidance |
-| 9 | Presentation of long projects
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS / CLASS ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of GitHub, Arduino, and the basics of software collaboration:
+
+*   An overview of GitHub collaboration
+*   Creating and contributing to repositories
+*   An overview of Arduino microcontrollers
+*   Recreating a guided project (roll-a-ball)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The basics of design and ideation:
+
+*   Using the motors
+*   Expand, explore, and personalize the roll-a-ball example
+*   Overview of collaborative design process
+*   Short project: Form team for short project
+*   Start short project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Project design and execution for short projects:
+
+*   Crash course in prototyping and documenting ideas
+*   Short project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ideation, pitches, team formation, and project selection for short projects:
+
+*   Reflections from yesterday
+*   Overview of plan, team structure and expected outcomes
+*   Project ideation
+*   Team formation
+*   Get started or refine idea
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of short projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Project time for long projects: Meet and create with guidance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of long projects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

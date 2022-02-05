@@ -21,11 +21,126 @@ The following project demonstrations are courtesy of the participants, including
 
 {{< anchor "projects" >}}{{< /anchor >}}
 
-| ![SP1.jpg]({{< resource_file 65da1e0f-4600-f611-fa0e-8f74c21291b3 >}}) |  {{< br >}}{{< br >}} ﻿**[Short Project 1: Arduino Pinball]({{< baseurl >}}/resources/short-project-1-arduino-pinball)** {{< br >}}{{< br >}} In this video, one of the student teams demonstrates their project, an Arduino Baseball game.   {{< br >}}{{< br >}}  |
-| ![SP2.jpg]({{< resource_file d0b8e855-e4e3-0e53-ac86-d76b5edca16d >}}) |  {{< br >}}{{< br >}} ﻿**[Short Project 2: Back in Black Light Show]({{< baseurl >}}/resources/short-project-2-back-in-black-light-show)** {{< br >}}{{< br >}} One of the student teams presents their project, an Arduino based light and sound show, which is programmed using the Processing IDE. They use the sound library to sync the lights with music.   {{< br >}}{{< br >}}  |
-| ![SP3.jpg]({{< resource_file fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a >}}) |  {{< br >}}{{< br >}}  **[Short Project 3: Calculator]({{< baseurl >}}/resources/short-project-3-calculator)** {{< br >}}{{< br >}} Students demonstrate their project, an Arduino based calculator that can do simple additions and displays the sum on a dial.   {{< br >}}{{< br >}}  |
-| ![SP4.jpg]({{< resource_file 8834ec63-9502-6a27-cf6c-4bc425c51e18 >}}) |  {{< br >}}{{< br >}} ﻿**[Short Project 4: Chance Game]({{< baseurl >}}/resources/short-project-4-chance-game)** {{< br >}}{{< br >}} In this video, one of the student teams demonstrates their projects, an Arduino based virtual ruler and a lottery game.   {{< br >}}{{< br >}}  |
-| ![SP5.jpg]({{< resource_file 1f4c9ba2-4d7e-4a25-88aa-9ec8769ba7e9 >}}) |  {{< br >}}{{< br >}} ﻿**[Short Project 5: Infrared Lock]({{< baseurl >}}/resources/short-project-5-infrared-lock)** {{< br >}}{{< br >}} In this video, one of the student teams demonstrates their project, an IR bike lock. The bike lock can be triggered using an infrared remote control.   {{< br >}}{{< br >}}  |
-| ![SP6.jpg]({{< resource_file d3840da6-9838-4505-97af-19976e110eac >}}) |  {{< br >}}{{< br >}} ﻿[**S****hort Project 6: Knock Knock Lock**]({{< baseurl >}}/resources/short-project-6-knock-knock-lock) {{< br >}}{{< br >}} One of the student team presents their project, a sound activated safe lock.   {{< br >}}{{< br >}}  |
-| ![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}}) |  {{< br >}}{{< br >}} ﻿**Short Project 7: Mario Light Show** {{< br >}}{{< br >}} The LED array is pre-programmed to sync with music from the popular video game, "Super Mario." This video is unavailable due to copyright restrictions.   {{< br >}}{{< br >}}  |
-| ![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}}) |  {{< br >}}{{< br >}} ﻿**[Short Project 8: Plant People]({{< baseurl >}}/resources/short-project-8-plant-people)** {{< br >}}{{< br >}} Students present on their project, Plant People.   {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![SP1.jpg]({{< resource_file 65da1e0f-4600-f611-fa0e-8f74c21291b3 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Short Project 1: Arduino Pinball]({{< baseurl >}}/resources/short-project-1-arduino-pinball)**
+
+In this video, one of the student teams demonstrates their project, an Arduino Baseball game.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![SP2.jpg]({{< resource_file d0b8e855-e4e3-0e53-ac86-d76b5edca16d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Short Project 2: Back in Black Light Show]({{< baseurl >}}/resources/short-project-2-back-in-black-light-show)**
+
+One of the student teams presents their project, an Arduino based light and sound show, which is programmed using the Processing IDE. They use the sound library to sync the lights with music.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![SP3.jpg]({{< resource_file fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ **[Short Project 3: Calculator]({{< baseurl >}}/resources/short-project-3-calculator)**
+
+Students demonstrate their project, an Arduino based calculator that can do simple additions and displays the sum on a dial.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![SP4.jpg]({{< resource_file 8834ec63-9502-6a27-cf6c-4bc425c51e18 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Short Project 4: Chance Game]({{< baseurl >}}/resources/short-project-4-chance-game)**
+
+In this video, one of the student teams demonstrates their projects, an Arduino based virtual ruler and a lottery game.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![SP5.jpg]({{< resource_file 1f4c9ba2-4d7e-4a25-88aa-9ec8769ba7e9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Short Project 5: Infrared Lock]({{< baseurl >}}/resources/short-project-5-infrared-lock)**
+
+In this video, one of the student teams demonstrates their project, an IR bike lock. The bike lock can be triggered using an infrared remote control.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![SP6.jpg]({{< resource_file d3840da6-9838-4505-97af-19976e110eac >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿[**S****hort Project 6: Knock Knock Lock**]({{< baseurl >}}/resources/short-project-6-knock-knock-lock)
+
+One of the student team presents their project, a sound activated safe lock.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**Short Project 7: Mario Light Show**
+
+The LED array is pre-programmed to sync with music from the popular video game, "Super Mario." This video is unavailable due to copyright restrictions.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![SP8.jpg]({{< resource_file fddba617-ac9f-bf60-728e-736b95525f6e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Short Project 8: Plant People]({{< baseurl >}}/resources/short-project-8-plant-people)**
+
+Students present on their project, Plant People.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

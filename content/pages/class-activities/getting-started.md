@@ -27,5 +27,36 @@ The goal of this first activity is to get students comfortable enough to form a 
 
 Once the group has done some intros, they should feel a bit more comfortable. To further facilitate the social mobility of the group, we employ some simple group activities that are commonly used by improv theater troupes to open dialogue, build bonds, and help students shake out some of their jitters. This also helps the students to further connect with the instructors of the course. This [improv game](http://wiki.improvresourcecenter.com/index.php?title=Red_Ball) is [Red Ball]({{< baseurl >}}/resources/red-ball-during-class). 
 
-| ![GettingStartedIntro.jpg]({{< resource_file 46a24215-ba4a-9137-3cc2-c4e15ee0e30f >}}) |  {{< br >}}{{< br >}}  **[Getting Started: Introducing Introductions]({{< baseurl >}}/resources/introducing-introductions)** {{< br >}}{{< br >}} Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.   {{< br >}}{{< br >}}  |
-| ![GettingStartedIcebreaker.jpg]({{< resource_file a7380845-f0b3-0619-18c5-ea11a9d7fcf0 >}}) |  {{< br >}}{{< br >}} ﻿**[Getting Started: Icebreaker]({{< baseurl >}}/resources/icebreaker)** {{< br >}}{{< br >}} Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.   {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿![GettingStartedIntro.jpg]({{< resource_file 46a24215-ba4a-9137-3cc2-c4e15ee0e30f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ **[Getting Started: Introducing Introductions]({{< baseurl >}}/resources/introducing-introductions)**
+
+Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![GettingStartedIcebreaker.jpg]({{< resource_file a7380845-f0b3-0619-18c5-ea11a9d7fcf0 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿**[Getting Started: Icebreaker]({{< baseurl >}}/resources/icebreaker)**
+
+Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.  
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
