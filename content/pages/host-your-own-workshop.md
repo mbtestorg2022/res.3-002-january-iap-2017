@@ -19,9 +19,9 @@ For the course we created a [single repo](https://mens-et-manus.github.io/archiv
 Promotion
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2017 Workshop Flyer (PDF — 1.1MB)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_17)
+[2017 Workshop Flyer (PDF — 1.1MB)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_17)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2016 Workshop Flyer (PDF)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_16)
+[2016 Workshop Flyer (PDF)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_16)
 
 Hardware
 --------
