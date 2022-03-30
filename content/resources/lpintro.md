@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c2103b6-50f0-c9ce-847b-c90df277563d
 resourcetype: Image
 title: Long Project Intro
 uid: 73bbbfde-f637-a173-39aa-80e5f095d43d

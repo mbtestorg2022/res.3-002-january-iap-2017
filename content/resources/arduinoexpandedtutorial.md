@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0d44de95-825a-a63a-7b91-a868679f2427
 resourcetype: Image
 title: ArduinoExpandedTutorial.jpg
 uid: 0ffde6b8-7cde-f647-6022-97a17ce3c398

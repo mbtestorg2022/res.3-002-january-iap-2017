@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9124cfc0-9ac5-8d6a-28b7-dc1f57821864
 resourcetype: Image
 title: 'Collaboration: Red Ball During Class'
 uid: a9c3fa7d-8c3a-8b5a-8788-ebe0e1072b2a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c58fde32-959c-c476-a858-daf107a2c7e2
 resourcetype: Image
 title: ArduinoIntro.jpg
 uid: 4f0ed47c-34b5-9f1f-769c-e90ddfe76162

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c58fde32-959c-c476-a858-daf107a2c7e2
 resourcetype: Image
 title: 'Getting Started: Icebreaker'
 uid: a7380845-f0b3-0619-18c5-ea11a9d7fcf0

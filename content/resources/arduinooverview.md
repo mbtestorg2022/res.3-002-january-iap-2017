@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b6e4204b-938c-bbc2-5b6a-925b625b04bf
 resourcetype: Image
 title: ArduinoOverview.jpg
 uid: 0134ed92-3270-fe74-fe04-ab70e50ddf23

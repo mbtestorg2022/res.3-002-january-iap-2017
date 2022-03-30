@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c2103b6-50f0-c9ce-847b-c90df277563d
 resourcetype: Image
 title: Long Project 4
 uid: 53c1fba4-9efd-5437-7750-3e9e49f64c41

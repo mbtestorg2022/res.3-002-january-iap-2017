@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c
 resourcetype: Image
 title: SP8.jpg
 uid: fddba617-ac9f-bf60-728e-736b95525f6e

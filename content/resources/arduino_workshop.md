@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
 resourcetype: Image
 title: Arduino_workshop.jpg
 uid: e139d43c-ba1b-7b49-452a-d0704ba7fb20

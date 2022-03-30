@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c
 resourcetype: Image
 title: SP3.jpg
 uid: fc8ebdfa-41ca-ac3c-41f7-0dcf1ec5e91a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8b218923-d686-59f1-9eae-5de886d56839
 resourcetype: Image
 title: ArduinoTutorial.jpg
 uid: 1fdc6fac-7456-de93-5924-d5357e88cde9
